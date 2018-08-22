@@ -153,6 +153,6 @@
 		<!-- log end -->
 	</dependencies>
 	<build>
-		<finalName>springmvc</finalName>
+		<finalName>ROOT</finalName>
 	</build>
 </project>
